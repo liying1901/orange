@@ -1,12 +1,5 @@
-THIS IS ORANGE
-WHAT IS CONFIG
-WHAT IS ORANGE
-THIS IS CONFIG.PHP
-
-hihiihihi ohaiyo
+THIS IS ORANGE THIS IS CONFIG.PHP
 
 hi ohaiyo
-123123
-aloha HELLO
-testing123
+test
 
