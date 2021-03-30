@@ -6,8 +6,6 @@ THIS IS CONFIG.PHP
 meemeeemeee
 
 hi ohaiyo
-
 aloha HELLO
-
 testing123
-ppppppp
+
