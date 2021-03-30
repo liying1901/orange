@@ -7,8 +7,6 @@ b = a
 c = 3
 
 
-#hi notepadhhhh
-
-#hihihi
+#hi notepad
 
 
