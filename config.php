@@ -1,5 +1,5 @@
 THIS IS ORANGE
-***********testing*********
+**#######**testing*********
 THIS IS CONFIG.PHP
 
 mee kolok
