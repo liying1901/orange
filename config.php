@@ -6,5 +6,5 @@ a = 1
 b = a
 c = 3
 
-#edit in notepad and gitgitgithub
+#edit in notepad 
 
