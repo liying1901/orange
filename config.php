@@ -5,6 +5,7 @@ THIS IS CONFIG.PHP
 mee kolok
 hi ohaiyo
 vanvanvan
+naza
 aloha HELLO
 
 testing123
