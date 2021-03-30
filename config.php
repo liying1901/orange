@@ -2,11 +2,11 @@ THIS IS ORANGE
 WHAT IS CONFIG
 WHAT IS ORANGE
 THIS IS CONFIG.PHP
-mee kolok
+
+meemeeemeee
+
 hi ohaiyo
-vanvanvan
-vios
-naza
+
 aloha HELLO
 
 testing123
